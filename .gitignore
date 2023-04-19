@@ -1,0 +1,11 @@
+# Ignore Testing folders
+Testing
+
+# Ignore Possible Air pollution model folder
+AirPollutionModels
+
+# Ignore Air Quality files that are too large
+FinalProject/Air Quality/
+FinalProject/Detroit Data/CMAQ
+FinalProject/Detroit Data/LCMS_CONUS_v2020-5_Land_Cover_Annual_2020
+FinalProject/Detroit Data/tl_2019_26_tabblock10/tl_2019_26_tabblock10.shp
