@@ -4,6 +4,9 @@ Testing
 # Ignore Possible Air pollution model folder
 AirPollutionModels
 
+# --- All files ignored here are necessary to launch the project but are too large to save on GitHub's free tier
+# --- However, they data is all available publicly as described and cited in FinalReport_Suchiths.pdf
+
 # Ignore Air Quality files that are too large
 FinalProject/Air Quality/
 
