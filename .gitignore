@@ -6,6 +6,13 @@ AirPollutionModels
 
 # Ignore Air Quality files that are too large
 FinalProject/Air Quality/
+
+# Ignore Detroit data files that are too large
 FinalProject/Detroit Data/CMAQ
 FinalProject/Detroit Data/LCMS_CONUS_v2020-5_Land_Cover_Annual_2020
 FinalProject/Detroit Data/tl_2019_26_tabblock10/tl_2019_26_tabblock10.shp
+
+
+# Ignore ArcGIS files that are too large
+FinalProject/FinalProject.gdb/a00000031.gdbtable
+FinalProject/FinalProject.gdb/a00000032.gdbtable
